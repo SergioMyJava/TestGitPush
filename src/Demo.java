@@ -4,6 +4,6 @@ public class Demo {
         System.out.println("enother");
     }
     void newFunktionForDemobranch(){
-        System.out.println("");
+        System.out.println("for demo branch");
     }
 }
