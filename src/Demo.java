@@ -1,7 +1,6 @@
 public class Demo {
     void fatalErorWithConnekting(){
-        System.out.println("master branch, changes");
-        System.out.println("change_demo branch");
+        System.out.println("master branch, changes1232432");
         System.out.println("enother");
     }
 }
