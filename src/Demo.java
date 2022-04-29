@@ -6,4 +6,7 @@ public class Demo {
     void newFuktionForMaster(){
         System.out.println("string for master");
     }
+    void testPull(){
+        System.out.println("pull in demo");
+    }
 }
