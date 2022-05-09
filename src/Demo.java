@@ -18,4 +18,7 @@ public class Demo {
     void testMergConflikt2(){
         System.out.println("Merg Conflikt on local machin");
     }
+    void testMergConflikt3(){
+        System.out.println("New change");
+    }
 }
