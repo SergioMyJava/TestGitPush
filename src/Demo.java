@@ -12,7 +12,10 @@ public class Demo {
     void nextTest(){
         System.out.println("next Test");
     }
-    void testMergConflikt(){
+    void testMergConflikt1(){
         System.out.println("Merg Conflikt on GitHub");
+    }
+    void testMergConflikt2(){
+        System.out.println("Merg Conflikt on local machin");
     }
 }
