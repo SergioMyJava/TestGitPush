@@ -9,7 +9,4 @@ public class Demo {
     void testPull(){
         System.out.println("pull in demo");
     }
-    void nextTest(){
-        System.out.println("next Test");
-    }
 }
