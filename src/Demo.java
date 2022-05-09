@@ -12,4 +12,7 @@ public class Demo {
     void nextTest(){
         System.out.println("next Test");
     }
+    void testMergConflikt(){
+        System.out.println("Merg Conflikt on GitHub");
+    }
 }
