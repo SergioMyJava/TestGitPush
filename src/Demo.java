@@ -16,6 +16,6 @@ public class Demo {
         System.out.println("Merg Conflikt on GitHub");
     }
     void testMergConflikt2(){
-        System.out.println("Merg Conflikt on local machin");
+        System.out.println("Resolv konflict, on remote");
     }
 }
